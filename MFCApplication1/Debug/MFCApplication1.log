@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  MFCApplication1Dlg.cpp
+e:\vswork\repos\mfcapplication1\mfcapplication1\maparray.h(78): warning C4101: “l”: 未引用的局部变量
+  MFCApplication1.cpp
+  正在生成代码...
+  MFCApplication1.vcxproj -> E:\VSWork\repos\MFCApplication1\Debug\MFCApplication1.exe
+  MFCApplication1.vcxproj -> E:\VSWork\repos\MFCApplication1\Debug\MFCApplication1.pdb (Partial PDB)
